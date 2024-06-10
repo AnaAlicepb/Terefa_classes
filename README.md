@@ -12,7 +12,7 @@
 
 <header>
     <h1>Projeto Carro</h1>
-    <img src="path/to/your/image.jpg" alt="img" width="300" height="auto">
+    <img src="./img/tela.png" alt="tela" width="300" height="auto">
 </header>
 
 <details>
