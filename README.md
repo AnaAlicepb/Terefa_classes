@@ -41,9 +41,6 @@
     <h2>Parte Técnica</h2>
     <ul>
         <li>IDE utilizada: Visual Studio Code</li>
-        <li>Backend: O projeto não inclui um backend, pois é focado na lógica de um objeto Carro em Java.</li>
-        <li>Frontend: Não aplicável para este projeto.</li>
-        <li>Banco de Dados: Não aplicável para este projeto.</li>
     </ul>
 </section>
 
