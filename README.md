@@ -6,7 +6,7 @@
     <meta name="description" content="Projeto de exemplo que demonstra a criação e manipulação de um objeto Carro em Java.">
     <meta name="keywords" content="Java, Carro, Projeto, VS Code">
     <meta name="author" content="Ana Alice Rodrigues">
-    <title>Projeto Carro</title>
+    
 </head>
 <body>
 
